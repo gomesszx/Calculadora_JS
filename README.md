@@ -10,4 +10,3 @@ Essa é minha calculadora Js totalmente funcional
     - CSS
 
 Meu GitHub : https://github.com/gomesszx
-teste
